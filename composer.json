@@ -1,0 +1,7 @@
+{
+    "name": "creare/orderbeforex",
+    "type": "magento-module",
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

@@ -1,0 +1,9 @@
+app/code/local/Creare/OrderBeforeX                           app/code/local/Creare/OrderBeforeX                          
+app/design/adminhtml/default/default/layout/orderbeforex.xml app/design/adminhtml/default/default/layout/orderbeforex.xml
+app/design/frontend/default/default/layout/orderbeforex.xml  app/design/frontend/default/default/layout/orderbeforex.xml 
+app/design/frontend/default/default/template/orderbeforex    app/design/frontend/default/default/template/orderbeforex   
+app/etc/modules/Creare_OrderBeforeX.xml                      app/etc/modules/Creare_OrderBeforeX.xml                     
+skin/adminhtml/default/default/orderbeforex/admin.css        skin/adminhtml/default/default/orderbeforex/admin.css       
+skin/adminhtml/default/default/orderbeforex/images           skin/adminhtml/default/default/orderbeforex/images          
+skin/frontend/default/default/css/orderbeforex.css           skin/frontend/default/default/css/orderbeforex.css          
+skin/frontend/default/default/images/orderbeforex            skin/frontend/default/default/images/orderbeforex           
